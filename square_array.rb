@@ -2,6 +2,7 @@
 
 def square_array(array)
   array.map{|num| num*2}
+  puts
 
 
 # def square_array(array)
