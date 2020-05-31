@@ -1,6 +1,7 @@
 #array = [1,2,3]
 
-def 
+def square_array(array)
+  array.map |num|
 
 
 # def square_array(array)
