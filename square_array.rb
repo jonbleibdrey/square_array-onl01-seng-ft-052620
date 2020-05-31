@@ -1,8 +1,10 @@
 #array = [1,2,3]
 
 def square_array(array)
-  array.map |num| num*2 
+  array.map {|num| num*2} 
   puts array
+  end
+end
 
 
 # def square_array(array)
